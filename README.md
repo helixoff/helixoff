@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @helixoff
 - 👀 I’m interested in Pyrogram, telegram bots
 - 🌱 I’m currently learning nothing.
-- 💞️ I’m looking to collaborate on pornovpn
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on хз не придумал
+- 📫 How to reach me @pmfrosya (могут забанить)
 - 😄 Pronouns: miau/miau
 - ⚡ Fun fact: ya jesus 
 
