@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @helixoff
-- 👀 I’m interested in nothing..
-- 🌱 I’m currently learning nothing.
-- 💞️ I’m looking to collaborate on хз не придумал
-- 📫 How to reach me @pmfrosya 
+- 👀 I’m interested in MK
+- 🌱 I’m currently learning Astro Framework 
+- 💞️ I’m looking to collaborate on MK
+- 📫 How to reach me #helixofff in discord
 - 😄 Pronouns: miau/miau
-- ⚡ Fun fact: кошка.  
+- ⚡ Fun fact: нету
 
 <!---
 helixoff/helixoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
