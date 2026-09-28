@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @helixoff
-- 👀 I’m interested in MK
-- 🌱 I’m currently learning Astro Framework 
-- 💞️ I’m looking to collaborate on MK
+- 👋 Hi, I’m @helixoff, student from chernihiv, ukraine
+- 👀 I’m interested in scripts for arzrp
+- 🌱 I’m currently learning nothing
+- 💞️ I’m looking to collaborate on nothing rn
 - 📫 How to reach me #helixofff in discord
-- 😄 Pronouns: miau/miau
-- ⚡ Fun fact: нету
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: lain iwakura fan №1
 
 <!---
 helixoff/helixoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
