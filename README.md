@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @helixoff, student from chernihiv, ukraine
 - 👀 I’m interested in scripts for arzrp
 - 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nothing rn
-- 📫 How to reach me #helixofff in discord
+- 📫 How to reach me @helixofff in discord
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: lain iwakura fan №1
 
