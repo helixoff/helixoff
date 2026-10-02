@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @helixoff, student from chernihiv, ukraine
-- 👀 I’m interested in scripts for arzrp
 - 🌱 I’m currently learning nothing
 - 📫 How to reach me @helixofff in discord
 - 😄 Pronouns: he/him
